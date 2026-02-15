@@ -20,5 +20,13 @@ This project is a TCP Port Scanner developed using Python. It scans target IP ad
 - Network enumeration basics
 - Cybersecurity practical exposure
 
+- ## 📸 Project Screenshots
+
+### Port Scanner Output
+![Port Scanner](Screenshot_2026-02-12_09_42_3.png)
+
+### Netcat Output
+![Netcat Output](Screenshot_2026-02-12_09_53_0.png)
+
 ## 👨‍💻 Author
 THOUSIFF MANASH S
